@@ -1,6 +1,7 @@
 ## Olá! Me chamo Oziel  👋
 
 - 🌱 Estudando programação na https://www.linkedin.com/school/programadoresdoamanha/
+- Meu Linkedin => https://www.linkedin.com/in/ozielsousa/
 - 😄 Pronouns: Ele/Dele
 
 
