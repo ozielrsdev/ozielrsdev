@@ -13,17 +13,18 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oziel062&layout=compact&langs_count=8&card_width=320&theme=react" />
 </a>
 
-<a href="https://github.com/Oziel062/Cadastro-de-Produtos">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oziel062&repo=Cadastro-de-Produtos&theme=react"/>
+<a href="https://github.com/Oziel062/Eco-Points">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oziel062&repo=Eco-Points&theme=react"/>
 </a>
-<a href="https://github.com/Oziel062/Calculadora">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oziel062&repo=Calculadora&theme=react" />
+<a href="https://github.com/Oziel062/EcoPoints-API">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oziel062&repo=EcoPoints-API&theme=react" />
 </a>
 
 <div style="display: inline_block"><br>
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 
 ##
