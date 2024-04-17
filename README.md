@@ -5,7 +5,7 @@
 - 😄 Pronouns: Ele/Dele
 
 <div style="display: flex; justfy-content: center; aling-content: center;" >
-<a href="https://github.com/anuraghazr/github-readme-stats">
+<a href="https://github.com/Ozi-Sousa/github-readme-stats">
   <img height=160  src="https://github-readme-stats.vercel.app/api?username=ozi-sousa&show_icons=true&theme=react" />
 </a>
 <a href="https://github.com/Oziel062/Cadastro-de-Produtos">
