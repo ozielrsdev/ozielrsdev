@@ -35,12 +35,15 @@
 
 ---
 <div align="center">
-<img align="left"  height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozi-Sousa&layout=compact&theme=react" alt=Ozi-Sousa />
+<img align="left"  height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozi-Sousa&layout=compact&theme=react" alt=Ozi-Sousa />
 
-<p>&nbsp;<img align="right" height="140em" src="https://github-readme-stats.vercel.app/api?username=Ozi-Sousa&show_icons=true&locale=en&theme=react" alt="Ozi-Sousa" /></p>
+<p>&nbsp;<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ozi-Sousa&show_icons=true&locale=en&theme=react" alt="Ozi-Sousa" /></p>
 
-<p><img align="center" height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ozi-Sousa&theme=react" alt="Ozi-Sousa" /></p>
-</div>
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Ozi-Sousa/Ozi-Sousa/output/snake.svg" alt="Snake animation" />
+
+###
