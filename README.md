@@ -6,10 +6,10 @@
 
 <div style="display: flex; justfy-content: center; aling-content: center;" >
 <a href="https://github.com/Ozi-Sousa/github-readme-stats">
-  <img height=160  src="https://github-readme-stats.vercel.app/api?username=ozi-sousa&show_icons=true&theme=react" />
+  <img height=160  src="https://github-readme-stats.vercel.app/api?username=Ozi-Sousa&show_icons=true&theme=react" />
 </a>
 <a href="https://github.com/Oziel062/Cadastro-de-Produtos">
-  <img height=160  src="https://github-readme-stats.vercel.app/api/top-langs?username=ozi-sousa&layout=compact&langs_count=8&card_width=320&theme=react" />
+  <img height=160  src="https://github-readme-stats.vercel.app/api/top-langs?username=Ozi-Sousa&layout=compact&langs_count=8&card_width=320&theme=react" />
 </a>
 
 </div>
