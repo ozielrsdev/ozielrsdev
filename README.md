@@ -5,8 +5,6 @@
 
 
 - 📫 How to reach me **ozielzin358@gmail.com**
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ozi-Sousa&label=Profile%20views&color=0e75b6&style=flat" alt="Ozi-Sousa" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ozi-Sousa&theme=dracula" alt="Ozi-Sousa" /></a> </p>
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/devozielsousa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
