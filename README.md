@@ -33,19 +33,14 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="center">Stars</h3>
+---
 <div align="center">
-<img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozi-Sousa&layout=compact&theme=react" alt=Ozi-Sousa />
+<img align="left"  height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozi-Sousa&layout=compact&theme=react" alt=Ozi-Sousa />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ozi-Sousa&show_icons=true&locale=en&theme=react" alt="Ozi-Sousa" /></p>
+<p>&nbsp;<img align="right" height="140em" src="https://github-readme-stats.vercel.app/api?username=Ozi-Sousa&show_icons=true&locale=en&theme=react" alt="Ozi-Sousa" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ozi-Sousa&theme=react" alt="Ozi-Sousa" /></p>
+<p><img align="center" height="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ozi-Sousa&theme=react" alt="Ozi-Sousa" /></p>
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Ozi-Sousa/Ozi-Sousa/output/snake.svg" alt="Snake animation" />
-
-###
