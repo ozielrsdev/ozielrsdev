@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Oziel</h1>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ozi-Sousa&theme=dracula" alt="Ozi-Sousa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devoziel-s&theme=dracula" alt="Oziel-Sousa" /></a> </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -22,6 +22,6 @@
 
 ---
 <div align="center">
-<img align="left"  height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozi-Sousa&layout=compact&theme=react" alt=Ozi-Sousa />
+<img align="left"  height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devoziel-s&layout=compact&theme=react" alt=Ozi-Sousa />
 
-<p>&nbsp;<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=Ozi-Sousa&show_icons=true&locale=en&theme=react" alt="Ozi-Sousa" /></p>
+<p>&nbsp;<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=devoziel-s&show_icons=true&locale=en&theme=react" alt="Ozi-Sousa" /></p>
