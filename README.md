@@ -26,4 +26,5 @@
 
 <p>&nbsp;<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=devoziel-s&show_icons=true&locale=en&theme=react" alt="Ozi-Sousa" /></p>
 
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/devoziel-s?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&weeks=30&theme=cyan&dark=true) 
+
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/sthefanieee?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=sunset) 
