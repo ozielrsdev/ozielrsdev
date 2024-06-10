@@ -1,44 +1,60 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Olá👋, me chamo Oziel</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=33B4EF&section=header&reversal=false"/>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jet+Brains&pause=1000&color=5DDFF7&size=35&background=FF000000&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+me+chamo+Oziel!;Desenvolvedor+Full-Stack)](https://git.io/typing-svg)
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devoziel-s&theme=dracula" alt="Oziel-Sousa" /></a> </p>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devoziel-s&show_icons=true&count_private=true&hide_border=true&title_color=33B4EF&icon_color=33B4EF&text_color=c9d1d9&bg_color=0d1117" alt="Oziel Sousa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devoziel-s&layout=compact&hide_border=true&title_color=33B4EF&text_color=33B4EF&bg_color=0d1117" />
+</div>
 
-<h3 align="center">Tecnologias & Ferramentas</h3>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devoziel-s&bg_color=000000&color=33B4EF&line=6EA2F7FF&point=33B4EF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<div align="center">  
+<a href="" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN---?style=for-the-badge&logo=LINKEDIN&logoColor=white&color=0094D7"</a>
+</div> 
+ 
+
+
+ <h1 align="center">Tecnologias & Ferramentas</h1>
 <p align="center">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/sqlite-icon.svg" alt="Sqlite" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+
+<img src="https://img.shields.io/badge/JAVASCRIPT---?style=for-the-badge&logo=JAVASCRIPT&logoColor=white&color=0094D7
+" alt="Javascript"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/REACT---?style=for-the-badge&logo=REACT&logoColor=white&color=0094D7
+" alt="React"/>
+<img src="https://img.shields.io/badge/CSS---?style=for-the-badge&logo=CSS3&logoColor=white&color=0094D7
+" alt="Css"/>
+<img src="https://img.shields.io/badge/HTML---?style=for-the-badge&logo=HTML5&logoColor=white&color=0094D7
+" alt="HTML"/>
+<img src="https://img.shields.io/badge/NODEJS---?style=for-the-badge&logo=NODE.JS&logoColor=white&color=0094D7
+" alt="NodeJs"/>
+<img src="https://img.shields.io/badge/MYSQL---?style=for-the-badge&logo=MYSQL&logoColor=white&color=0094D7
+" alt="Mysql" />
+<img src="https://img.shields.io/badge/POSTGRESQL---?style=for-the-badge&logo=POSTGRESQL&logoColor=white&color=0094D7
+" alt="Postgresql"/>
+<img src="https://img.shields.io/badge/SEQUELIZE---?style=for-the-badge&logo=SEQUELIZE&logoColor=white&color=0094D7
+" alt="Sequelize"/>
+<img src="https://img.shields.io/badge/FIGMA---?style=for-the-badge&logo=FIGMA&logoColor=white&color=0094D7
+" alt="Figma"/>
+<img src="https://img.shields.io/badge/POSTMAN---?style=for-the-badge&logo=POSTMAN&logoColor=white&color=0094D7
+" alt="Postman"/>
+<img src="https://img.shields.io/badge/GIT---?style=for-the-badge&logo=GIT&logoColor=white&color=0094D7
+" alt="Git"/>
 </p>
-
----
-<div align="center">
-<img align="left"  height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devoziel-s&layout=compact&theme=react" alt=Ozi-Sousa />
-
-<p>&nbsp;<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=devoziel-s&show_icons=true&locale=en&theme=react" alt="Ozi-Sousa" /></p>
-
-
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=138177458" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=138177458&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @devoziel-s" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=138177458&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-
-
-
 
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/devoziel-s?chart=3dbar&gap=0.6&scale=2&&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=cyan&dark=true) 
 
 
+### Revisando:
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{devoziel-s}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=68C8F5&section=footer&reversal=false"/>
