@@ -28,6 +28,17 @@
 
 
 
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=138177458" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=138177458&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @devoziel-s" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=138177458&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+
+
+
+
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/devoziel-s?chart=3dbar&gap=0.6&scale=2&&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=cyan&dark=true) 
 
 
