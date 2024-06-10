@@ -19,32 +19,25 @@
 
  <h1 align="center">Tecnologias & Ferramentas</h1>
 <p align="center">
+  
+<img src="https://img.shields.io/badge/JAVASCRIPT-white?style=for-the-badge&logo=JAVASCRIPT&logoColor=white&color=0094D7" alt="Javascript"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/REACT---?style=for-the-badge&logo=REACT&logoColor=white&color=0094D7" alt="React"/>
+<img src="https://img.shields.io/badge/CSS---?style=for-the-badge&logo=CSS3&logoColor=white&color=0094D7" alt="Css"/>
+<img src="https://img.shields.io/badge/HTML---?style=for-the-badge&logo=HTML5&logoColor=white&color=0094D7" alt="HTML"/>
+<img src="https://img.shields.io/badge/NODEJS---?style=for-the-badge&logo=NODE.JS&logoColor=white&color=0094D7" alt="NodeJs"/>
+<img src="https://img.shields.io/badge/MYSQL---?style=for-the-badge&logo=MYSQL&logoColor=white&color=0094D7" alt="Mysql" />
+<img src="https://img.shields.io/badge/POSTGRESQL---?style=for-the-badge&logo=POSTGRESQL&logoColor=white&color=0094D7" alt="Postgresql"/>
+<img src="https://img.shields.io/badge/SEQUELIZE---?style=for-the-badge&logo=SEQUELIZE&logoColor=white&color=0094D7" alt="Sequelize"/>
+<img src="https://img.shields.io/badge/FIGMA---?style=for-the-badge&logo=FIGMA&logoColor=white&color=0094D7" alt="Figma"/>
+<img src="https://img.shields.io/badge/POSTMAN---?style=for-the-badge&logo=POSTMAN&logoColor=white&color=0094D7" alt="Postman"/>
+<img src="https://img.shields.io/badge/GIT---?style=for-the-badge&logo=GIT&logoColor=white&color=0094D7" alt="Git"/>
 
-<img src="https://img.shields.io/badge/JAVASCRIPT---?style=for-the-badge&logo=JAVASCRIPT&logoColor=white&color=0094D7
-" alt="Javascript"/>
-<img alt="Static Badge" src="https://img.shields.io/badge/REACT---?style=for-the-badge&logo=REACT&logoColor=white&color=0094D7
-" alt="React"/>
-<img src="https://img.shields.io/badge/CSS---?style=for-the-badge&logo=CSS3&logoColor=white&color=0094D7
-" alt="Css"/>
-<img src="https://img.shields.io/badge/HTML---?style=for-the-badge&logo=HTML5&logoColor=white&color=0094D7
-" alt="HTML"/>
-<img src="https://img.shields.io/badge/NODEJS---?style=for-the-badge&logo=NODE.JS&logoColor=white&color=0094D7
-" alt="NodeJs"/>
-<img src="https://img.shields.io/badge/MYSQL---?style=for-the-badge&logo=MYSQL&logoColor=white&color=0094D7
-" alt="Mysql" />
-<img src="https://img.shields.io/badge/POSTGRESQL---?style=for-the-badge&logo=POSTGRESQL&logoColor=white&color=0094D7
-" alt="Postgresql"/>
-<img src="https://img.shields.io/badge/SEQUELIZE---?style=for-the-badge&logo=SEQUELIZE&logoColor=white&color=0094D7
-" alt="Sequelize"/>
-<img src="https://img.shields.io/badge/FIGMA---?style=for-the-badge&logo=FIGMA&logoColor=white&color=0094D7
-" alt="Figma"/>
-<img src="https://img.shields.io/badge/POSTMAN---?style=for-the-badge&logo=POSTMAN&logoColor=white&color=0094D7
-" alt="Postman"/>
-<img src="https://img.shields.io/badge/GIT---?style=for-the-badge&logo=GIT&logoColor=white&color=0094D7
-" alt="Git"/>
 </p>
 
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/devoziel-s?chart=3dbar&gap=0.6&scale=2&&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=cyan&dark=true) 
+
+<div align="center">
+<img  src="https://ssr-contributions-svg.vercel.app/_/devoziel-s?chart=3dbar&gap=0.6&scale=2&&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=cyan&dark=true">
+</div>
 
 
 ### Revisando:
@@ -53,7 +46,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="center"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{devoziel-s}/count.svg" /></p> 
 <br></div>
 
