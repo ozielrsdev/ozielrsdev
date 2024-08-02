@@ -4,11 +4,11 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devoziel-s&show_icons=true&count_private=true&hide_border=true&title_color=33B4EF&icon_color=33B4EF&text_color=c9d1d9&bg_color=0d1117" alt="Oziel Sousa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devoziel-s&layout=compact&hide_border=true&title_color=33B4EF&text_color=33B4EF&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ozielrsdev&show_icons=true&count_private=true&hide_border=true&title_color=33B4EF&icon_color=33B4EF&text_color=c9d1d9&bg_color=0d1117" alt="Oziel Sousa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozielrsdev&layout=compact&hide_border=true&title_color=33B4EF&text_color=33B4EF&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devoziel-s&bg_color=000000&color=33B4EF&line=6EA2F7FF&point=33B4EF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ozielrsdev&bg_color=000000&color=33B4EF&line=6EA2F7FF&point=33B4EF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center">  
@@ -36,7 +36,7 @@
 
 
 <div align="center">
-<img  src="https://ssr-contributions-svg.vercel.app/_/devoziel-s?chart=3dbar&gap=0.6&scale=2&&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=cyan&dark=true">
+<img  src="https://ssr-contributions-svg.vercel.app/_/ozielrsdev?chart=3dbar&gap=0.6&scale=2&&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=cyan&dark=true">
 </div>
 
 
@@ -47,7 +47,7 @@
 
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{devoziel-s}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ozielrsdev}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=68C8F5&section=footer&reversal=false"/>
