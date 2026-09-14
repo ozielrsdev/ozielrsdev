@@ -1,43 +1,70 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=33B4EF&section=header&reversal=false"/>
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jet+Brains&pause=1000&color=5DDFF7&size=35&background=FF000000&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+me+chamo+Oziel!;Desenvolvedor+Full-Stack)](https://git.io/typing-svg)
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=33B4EF&section=header&reversal=false" width="100%"/>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ozielrsdev&show_icons=true&count_private=true&hide_border=true&title_color=33B4EF&icon_color=33B4EF&text_color=c9d1d9&bg_color=0d1117" alt="Oziel Sousa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozielrsdev&layout=compact&hide_border=true&title_color=33B4EF&text_color=33B4EF&bg_color=0d1117" />
+<img src="https://readme-typing-svg.demolab.com/?font=Jetbrains+Mono&pause=1000&color=33B4EF&size=28&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+o+Oziel!;Desenvolvedor+Full+Stack;React.js+%7C+Node.js+%7C+TypeScript" alt="Typing SVG" />
+
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ozielrsdev&bg_color=000000&color=33B4EF&line=6EA2F7FF&point=33B4EF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 👋 Sobre mim
 
+Sou desenvolvedor Full Stack, com foco em **React.js** e **Node.js**, construindo aplicações web do front ao back-end. Gosto de resolver problemas reais e estou sempre aprendendo novas tecnologias.
 
-<div align="center">  
-<a href="" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN---?style=for-the-badge&logo=LINKEDIN&logoColor=white&color=0094D7"</a>
-</div> 
- 
+- 🌱 Atualmente aprofundando conhecimentos em **TypeScript** e boas práticas de arquitetura de API
+- 💼 Aberto a oportunidades como desenvolvedor Full Stack
+- 📍 Aparecida de Goiânia, Goiás, Brasil
+- 📫 Contato: [LinkedIn](https://www.linkedin.com/in/devozielsousa)
 
+---
 
- <h1 align="center">Tecnologias & Ferramentas</h1>
-<p align="center">
-  
-<img src="https://img.shields.io/badge/JAVASCRIPT-white?style=for-the-badge&logo=JAVASCRIPT&logoColor=white&color=0094D7" alt="Javascript"/>
-<img alt="Static Badge" src="https://img.shields.io/badge/REACT---?style=for-the-badge&logo=REACT&logoColor=white&color=0094D7" alt="React"/>
-<img src="https://img.shields.io/badge/CSS---?style=for-the-badge&logo=CSS3&logoColor=white&color=0094D7" alt="Css"/>
-<img src="https://img.shields.io/badge/HTML---?style=for-the-badge&logo=HTML5&logoColor=white&color=0094D7" alt="HTML"/>
-<img src="https://img.shields.io/badge/NODEJS---?style=for-the-badge&logo=NODE.JS&logoColor=white&color=0094D7" alt="NodeJs"/>
-<img src="https://img.shields.io/badge/MYSQL---?style=for-the-badge&logo=MYSQL&logoColor=white&color=0094D7" alt="Mysql" />
-<img src="https://img.shields.io/badge/POSTGRESQL---?style=for-the-badge&logo=POSTGRESQL&logoColor=white&color=0094D7" alt="Postgresql"/>
-<img src="https://img.shields.io/badge/SEQUELIZE---?style=for-the-badge&logo=SEQUELIZE&logoColor=white&color=0094D7" alt="Sequelize"/>
-<img src="https://img.shields.io/badge/FIGMA---?style=for-the-badge&logo=FIGMA&logoColor=white&color=0094D7" alt="Figma"/>
-<img src="https://img.shields.io/badge/POSTMAN---?style=for-the-badge&logo=POSTMAN&logoColor=white&color=0094D7" alt="Postman"/>
-<img src="https://img.shields.io/badge/GIT---?style=for-the-badge&logo=GIT&logoColor=white&color=0094D7" alt="Git"/>
+## 🛠️ Tecnologias & Ferramentas
 
-</p>
+**Front-end**
+![JavaScript](https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=JAVASCRIPT&logoColor=white&color=0094D7)
+![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=REACT&logoColor=white&color=0094D7)
+![HTML5](https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=HTML5&logoColor=white&color=0094D7)
+![CSS3](https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=CSS3&logoColor=white&color=0094D7)
 
+**Back-end**
+![Node.js](https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=NODE.JS&logoColor=white&color=0094D7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=POSTGRESQL&logoColor=white&color=0094D7)
+![MySQL](https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=MYSQL&logoColor=white&color=0094D7)
+![Sequelize](https://img.shields.io/badge/Sequelize-white?style=for-the-badge&logo=SEQUELIZE&logoColor=white&color=0094D7)
+
+**Ferramentas**
+![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=GIT&logoColor=white&color=0094D7)
+![Figma](https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=FIGMA&logoColor=white&color=0094D7)
+![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=POSTMAN&logoColor=white&color=0094D7)
+
+---
+
+## 🚀 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [**Reconstrua-Front**](https://github.com/Reconstrua/Reconstrua-Front) | Front-end da plataforma Reconstrua | JavaScript |
+| [**Reconstrua-API**](https://github.com/Reconstrua/Reconstrua-API) | API back-end da plataforma Reconstrua | JavaScript |
+| [**Hackaton-Front**](https://github.com/ozielrsdev/Hackaton-Front) | Front-end desenvolvido em hackathon | TypeScript |
+
+> 💡 Dica: troque os projetos fixados no seu perfil (aba *Customize your pins*) para priorizar projetos autorais/completos em vez de exercícios de curso — isso pesa mais para quem está buscando vaga.
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{ozielrsdev}/count.svg" /></p> 
-<br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=68C8F5&section=footer&reversal=false"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ozielrsdev&show_icons=true&count_private=true&hide_border=true&title_color=33B4EF&icon_color=33B4EF&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas GitHub" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozielrsdev&layout=compact&hide_border=true&title_color=33B4EF&text_color=33B4EF&bg_color=0d1117" alt="Linguagens mais usadas" height="165"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0094D7?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devozielsousa)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=33B4EF&section=footer&reversal=false" width="100%"/>
+
+</div>
