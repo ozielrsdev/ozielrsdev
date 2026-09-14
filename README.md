@@ -44,9 +44,12 @@ Sou desenvolvedor **Full Stack**, com foco em **React.js** e **Node.js**, constr
 
 <div align="center">
 
-![GitHub Stats](https://ghstats.dev/api/card?username=ozielrsdev&theme=dark&hide_border=true&title_color=0D9BD9&icon_color=0D9BD9&text_color=ffffff)
-
-[![Principais Langs](https://estaticasreadme.vercel.app/api/top-langs?username=ozielrsdev&font_family=Bricolage+Grotesque&locale=pt-br&layout=donut&langs_count=5&title_color=0D9BD9&icon_color=0D9BD9&theme=dark&hide_border=true)](https://github.com/ozielrsdev)
+<table>
+<tr>
+<td><img src="https://ghstats.dev/api/card?username=ozielrsdev&theme=dark&hide_border=true&title_color=0D9BD9&icon_color=0D9BD9&text_color=ffffff" /></td>
+<td><a href="https://github.com/ozielrsdev"><img src="https://estaticasreadme.vercel.app/api/top-langs?username=ozielrsdev&font_family=Bricolage+Grotesque&locale=pt-br&layout=donut&langs_count=5&title_color=0D9BD9&icon_color=0D9BD9&theme=dark&hide_border=true" /></a></td>
+</tr>
+</table>
 
 </div>
 
