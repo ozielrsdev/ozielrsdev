@@ -17,7 +17,7 @@ Sou desenvolvedor **Full Stack**, com foco em **React.js** e **Node.js**, constr
 ```
 🌱  Aprofundando conhecimentos em TypeScript e arquitetura de API
 💼  Aberto a oportunidades como desenvolvedor Full Stack
-🎓 Formado(a) em Full Stack pela Programadores do Amanhã (PdA)
+🎓  Formado(a) em Full Stack pela Programadores do Amanhã (PdA)
 📍  Aparecida de Goiânia, Goiás, Brasil
 ```
 
