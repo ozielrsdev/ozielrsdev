@@ -12,11 +12,12 @@
 
 ## 👋 Sobre mim
 
-Sou desenvolvedor **Full Stack**, com foco em **React.js** e **Node.js**, construindo aplicações web do front ao back-end. Gosto de resolver problemas reais e estou sempre aprendendo novas tecnologias.
+Sou desenvolvedor **Full Stack**, com foco em **React.js** e **Node.js**, construindo aplicações web do front ao back-end. Gosto de resolver problemas reais e estou sempre aprendendo novas tecnologias. Atuei como dev front-end no Reconstrua, implementando as telas de Login, Home, e Painel administrativo. 
 
 ```
 🌱  Aprofundando conhecimentos em TypeScript e arquitetura de API
 💼  Aberto a oportunidades como desenvolvedor Full Stack
+🎓 Formado(a) em Full Stack pela Programadores do Amanhã (PdA)
 📍  Aparecida de Goiânia, Goiás, Brasil
 ```
 
